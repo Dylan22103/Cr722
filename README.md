@@ -1,2 +1,2 @@
-# Cr722
-Repositorio con inf cr7
+# futbol
+aqui vamos a aprender como subir un repositorio en Github
